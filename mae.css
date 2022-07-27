@@ -1,0 +1,175 @@
+.IFuOkc {
+    display: table-cell;
+    height: 100%;
+    height:400px;
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    padding-top:50px;
+}
+h1{
+    color:white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:50px;
+    text-align:center;
+    margin-top:150px;
+
+}
+.sem1{
+    color:blueviolet;
+    margin-top:370px;
+    padding-top:5px;
+    margin-bottom:0px;
+    background-color: rgb(203, 212, 171);
+    font-size:60px;
+    text-align:center;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+@media only screen and (min-width: 1000px){
+.IFuOkc{
+    padding-bottom: 0;
+    padding-top: 0;
+}
+}
+@media only screen and (max-width: 600px){
+    .sitename{
+        font-size:30px;
+    }
+}
+@media only screen and (max-width: 600px){
+    #inlineFormCustomSelect{
+        align-items:center;
+        margin-right:200px;
+    }
+}
+
+#inlineFormCustomSelect{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+
+}
+#inlineFormCustomSelect:hover{
+    border-color:black;
+    border-radius:5px;
+    transition: background-color 200ms ease-in-out;
+}
+#inlineFormCustomSelect1{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+#inlineFormCustomSelect1:hover{
+    border-color:black;
+    border-radius:5px;
+    transition: background-color 200ms ease-in-out;
+}
+#inlineFormCustomSelect2{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+#inlineFormCustomSelect2:hover{
+    border-color:black;
+    border-radius:5px;
+    transition: background-color 200ms ease-in-out;
+}
+#inlineFormCustomSelect3{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+#inlineFormCustomSelect3:hover{
+    border-color:black;
+    border-radius:5px;
+    transition: background-color 200ms ease-in-out;
+}
+#inlineFormCustomSelect4{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+    
+}
+#inlineFormCustomSelect4:hover{
+    transition: background-color 200ms ease-in-out;
+    border-color:black;
+    border-radius:5px;
+}
+#inlineFormCustomSelect5{
+    color:black;
+    font-size:20px;
+    width:200px;
+    background-color: rgb(206, 188, 164);
+    margin-left:20px;
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+}
+#inlineFormCustomSelect5:hover{
+    transition: background-color 200ms ease-in-out;
+    border-color:black;
+    border-radius:5px;
+}
+.notes{
+    background-color: rgb(51, 44, 44);
+width:100%;
+}
+.sem2{
+    color:blueviolet;
+    padding-top:5px;
+    margin-bottom:0px;
+    background-color: rgb(203, 212, 171);
+    font-size:60px;
+    text-align:center;
+    font-family: 'Shadows Into Light', cursive;
+}
+.notes2{
+    background-color:rgb(51, 44, 44);
+width:100%;
+}
+@media screen and (max-width: 500px) {
+    h1 {
+      float: none;
+      display: block;
+      
+      font-size:30px;
+      font-style:bold;
+      
+    }
+    h1 {
+      float: none;
+    }
+    #inlineFormCustomSelect{
+        display:block;
+        justify-content:center;
+
+    }
+  }
