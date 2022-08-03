@@ -103,6 +103,7 @@ width:100%;
 .notes2{
     background-color:rgb(51, 44, 44);
 width:100%;
+
 }
 @media screen and (max-width: 500px) {
     h1 {
@@ -116,4 +117,17 @@ width:100%;
     h1 {
       float: none;
     }
+  }
+  .footer{
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(70, 73, 73);
+  color: white;
+  text-align: center;
+  height:100%;
+  height:65px;
+  padding-top:10px;
+ 
   }
