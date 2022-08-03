@@ -118,4 +118,11 @@ width:100%;
       float: none;
     }
   }
-  
+  .footer{
+    background-color:rgb(244, 237, 237);
+    width:100%;
+    color:black;
+    height:200px;
+    text-align:center;
+    padding-top:70px;
+  }
