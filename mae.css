@@ -25,7 +25,7 @@ h1{
     background-color: rgb(203, 212, 171);
     font-size:60px;
     text-align:center;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 @media only screen and (min-width: 1000px){
@@ -149,7 +149,7 @@ width:100%;
     background-color: rgb(203, 212, 171);
     font-size:60px;
     text-align:center;
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Josefin Sans', sans-serif;
 }
 .notes2{
     background-color:rgb(51, 44, 44);
